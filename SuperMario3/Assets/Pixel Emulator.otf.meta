@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e60601bf676dbd4468ac4c0e07052891
+timeCreated: 1494740746
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Emulator
+  fontNames:
+  - Pixel Emulator
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
